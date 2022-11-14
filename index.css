@@ -1,4 +1,12 @@
-* {
+body {
     margin: 0px;
-    padding: 0px;
+}
+header {
+    background-color: rgb(255, 250, 185);
+    margin: 0px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0px;
 }
